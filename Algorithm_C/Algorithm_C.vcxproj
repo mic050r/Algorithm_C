@@ -140,6 +140,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="max3.c" />
+    <ClCompile Include="max3comb.c" />
+    <ClCompile Include="med3.c" />
+    <ClCompile Include="p19_Ex.c" />
+    <ClCompile Include="p31_Ex.c" />
+    <ClCompile Include="p33_Ex.c" />
+    <ClCompile Include="sign.c" />
+    <ClCompile Include="sum_for.c" />
+    <ClCompile Include="sum_for_pos.c" />
+    <ClCompile Include="sum_while.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

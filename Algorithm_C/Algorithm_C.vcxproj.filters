@@ -21,5 +21,32 @@
     <ClCompile Include="max3.c">
       <Filter>소스 파일\Chap01</Filter>
     </ClCompile>
+    <ClCompile Include="max3comb.c">
+      <Filter>소스 파일\Chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="med3.c">
+      <Filter>소스 파일\Chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="p19_Ex.c">
+      <Filter>소스 파일\Chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="p31_Ex.c">
+      <Filter>소스 파일\Chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="p33_Ex.c">
+      <Filter>소스 파일\Chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="sign.c">
+      <Filter>소스 파일\Chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_for.c">
+      <Filter>소스 파일\Chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_for_pos.c">
+      <Filter>소스 파일\Chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_while.c">
+      <Filter>소스 파일\Chap01</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
